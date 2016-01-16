@@ -5,3 +5,6 @@ Plugin Name: WP Editor Snippet
  * Author: Ajit Bhandari
  * Author URI: http://www.themevita.com
  * License: GPL2
+
+Use
+[wp_snippet id="5"]  // id is your wp generated custom post id 
